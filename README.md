@@ -10,6 +10,10 @@
 * Edson Brendon de Oliveira (Dev Team)
 * Hyury Lins de Vasconcelos (Dev team)
 * Lucas de Lima Chaves (Dev team)
+
+### Disciplina Focal Point: Engenharia de Software II
+* M2 (Master dos Masters): Prof. Walmir Duque 
+* P2 (PO dos PO´s): Prof. Claudio Lima
 ## Índice
 * [O que é o GEOFPI](#o-que-é-o-geofpi)
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
