@@ -1,5 +1,6 @@
-# GEOFPI---Projeto-Integrador
-Projeto Integrador proposto pela FATEC - São José dos Campos com o seguinte tema: Desenvolver sistema “mini-ETL”, do inglês Extract Transform Load, com interface gráfica de usuário (GUI), visando armazenamento e recuperação de dados georreferenciados em banco de dados geográficos.
+
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Simples%20Espa%C3%A7o.png?raw=true" width="1000" height="600"/>
+
 
 ## Dev Team
 * Márcio Geraldo de Sousa (Product Owner)
@@ -20,7 +21,7 @@ Projeto Integrador proposto pela FATEC - São José dos Campos com o seguinte te
 ## O que é o GEOFPI?
 A carga de dados georreferenciados é uma atividade contínua durante os projetos que utilizam diversos software GIS para organizar e fazer o processamento de imagens de satélite. O resultado desse processamento, a depender do projeto, é o que se utiliza para desenvolvimento de produtos. A solução escolhida foi a de ferramentas de ETL espacial GEOFIP, cuja estrutura conceitual é apresentada na figura abaixo.
 
-imagem
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Ferramenta2.png?raw=true"/>
 
 ## Ferramenta Desenvolvida
 Essa ferramenta será configurada para entender os arquivos de formato shapefile e realizar conversões, usando regras definidas na etapa de planejamento, buscando compatibilidade com normas oficiais, e carregá-los e manipulá-los no banco de dados geográficos PostgreSQL com extensão Postgis, de acordo com a modelagem física definida pelo cliente. Também realiza o processo inverso de gerar um arquivo shapefile a partir de uma tabela do banco de dados PostgreSQL.
@@ -42,26 +43,16 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 |    Analista de Dados Espaciais   |Gostaria de uma ferramenta que me forneça condições de aplicar regras de transformação nos dados  | Para desenvolver novos produtos de acordo com a solicitação dos setores.| 
 |    Analista de Dados Espaciais   |Gostaria de uma ferramenta intuitiva, de fácil usabilidade,  com manuais de instruções| Para melhorar a experiência do usuário com a ferramenta|
 
-Imagem do product Backlog
+## *Story Cards*
+
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/WhatsApp%20Image%202020-09-20%20at%2015.15.42.jpeg?raw=true" width="1000" height="550"/>
+
 
 ## Plano de Ação
 
-Imagem Linha do tempo
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Linha%20do%20tempo%20.png?raw=true" width="900" height="650"/>
 
 ## Tecnologias
-Imagem 
-## Product Backlog
-Imagem
-# Sprint 1
 
-Entrega do protótipo da interface gráfica contendo a tela inicial, instruções de uso do sistema, sobre a ferramenta, a opção de carregar o arquivo em formato shapefile e transformação dos dados para parametrização com o banco de dados PostgreSQL com extensão Postgis.
-## Requisitos Atendidos
-* [RF001] A prototipação da ferramenta, para ter uma visão global do desenvolvimento do produto, verificar o entendimento das funcionalidades e fazer possíveis apontamentos de melhorias na usabilidade.
-* [RNF001] O protótipo deve permitir que o usuário insira login, senha e endereço de conexão para se conectar com o Banco de Dados.
-* [RNF 003] O protótipo deve permitir a verificação da página inicial e ter um botão com a função “Sobre” que explicará o que o sistema faz.
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Tecnologias.png?raw=true" width="900" height="550"/>
 
-## Valor da Sprint 
-* Facilita a visualização do produto para o cliente desde a fase inicial. 
-* Possibilita receber o feedback em tempo ágil. 
-* Facilita o levantamento de requisitos e funcionalidades. 
-* Possibilita estimar de forma mais precisa a complexidade e tempo de desenvolvimento.
