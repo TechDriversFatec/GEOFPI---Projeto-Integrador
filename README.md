@@ -47,7 +47,7 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 
 ## *Story Cards*
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/WhatsApp%20Image%202020-09-20%20at%2015.15.42.jpeg?raw=true" width="900" height="550"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/WhatsApp%20Image%202020-09-20%20at%2015.15.42.jpeg?raw=true" width="1000" height="500"/>
 
 
 ## Plano de Ação
