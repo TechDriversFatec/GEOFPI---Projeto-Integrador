@@ -17,6 +17,8 @@
 * [Product Backlog](#product-backlog)
 * [Tecnologias](#tecnologias)
 * [Plano de Ação](#plano-de-ação)
+* [Cronograma de Entregas](#cronograma-de-entregas)
+
 
 ## O que é o GEOFPI?
 A carga de dados georreferenciados é uma atividade contínua durante os projetos que utilizam diversos software GIS para organizar e fazer o processamento de imagens de satélite. O resultado desse processamento, a depender do projeto, é o que se utiliza para desenvolvimento de produtos. A solução escolhida foi a de ferramentas de ETL espacial GEOFIP, cuja estrutura conceitual é apresentada na figura abaixo.
@@ -55,4 +57,15 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 ## Tecnologias
 
 <img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Tecnologias.png?raw=true" width="900" height="550"/>
+
+## Cronograma de Entregas
+
+| Data | Links |
+| ------ | ------ |
+|    20/09/2020    |[Sprint 1](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint1)|
+|    04/10/2020    |[Sprint 2](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint2) |
+|    18/10/2020    |[Sprint 3](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint3) |
+|    01/11/2020    |[Sprint 4](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint4) |                    
+|    15/11/2020    |[Sprint 5](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint5) |
+|    29/11/2020    |[Sprint 6](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint6) |
 
