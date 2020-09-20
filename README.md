@@ -1,5 +1,5 @@
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Simples%20Espa%C3%A7o.png?raw=true" width="950" height="600"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Simples%20Espa%C3%A7o.png?raw=true" width="900" height="500"/>
 
 
 ## Dev Team
