@@ -25,7 +25,7 @@
 
 
 ## O que é o GEOFPI?
-A carga de dados georreferenciados é uma atividade contínua durante os projetos que utilizam diversos software GIS para organizar e fazer o processamento de imagens de satélite. O resultado desse processamento, a depender do projeto, é o que se utiliza para desenvolvimento de produtos. A solução escolhida foi a de ferramentas de ETL espacial GEOFIP, cuja estrutura conceitual é apresentada na figura abaixo.
+A carga de dados georreferenciados é uma atividade contínua durante os projetos que utilizam diversos software GIS para organizar e fazer o processamento de imagens de satélite. O resultado desse processamento, a depender do projeto, é o que se utiliza para desenvolvimento de produtos. A solução escolhida foi a ferramenta de ETL espacial GEOFIP, cuja estrutura conceitual é apresentada na figura abaixo.
 
 <img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Ferramenta2.png?raw=true"/>
 
