@@ -41,7 +41,7 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 
 
 | Quem | O que? | Para |
-| ----------------------- | ---------------------------------|---------------------------------------------------------|
+|:--------------:  | :----------:|:---------------------------------------------------------|
 |    Analista de Dados Espaciais   | Gostaria da Prototipação da Ferramenta desenvolvida. | Para ter uma visão global do desenvolvimento do produto, verificar o entendimento das funcionalidades da ferramenta e fazer possíveis apontamentos de melhorias na usabilidade.|
 |    Analista de Dados Espaciais   |Gostaria da interface gráfica fazendo a extração dos dados Shapefile e a conexão com o banco de dados|Para iniciar o processo de utilização da função “de para” da ferramenta.|
 |    Analista de Dados Espaciais   |Gostaria que a ferramenta execute e transforme os dados e faça a parametrização com o Banco de Dados| Para atender as necessidades do negócio.|
