@@ -8,7 +8,6 @@
 * Jodan Lima Galas (Dev Team)
 * Fabrício Cursino dos Santos (Dev Team)
 * Edson Brendon de Oliveira (Dev Team)
-* Hyury Lins de Vasconcelos (Dev team)
 * Lucas de Lima Chaves (Dev team)
 
 ### Disciplina Focal Point: Engenharia de Software II
