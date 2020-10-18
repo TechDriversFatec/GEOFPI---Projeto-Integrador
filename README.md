@@ -17,9 +17,9 @@
 * [O que é o GEOFPI](#o-que-é-o-geofpi)
 * [Ferramenta Desenvolvida](#ferramenta-desenvolvida)
 * [Benefícios](#benefícios)
-* [Product Backlog](#product-backlog)
+* [Product Backlog](#user-story)
 * [Tecnologias](#tecnologias)
-* [Plano de Ação](#plano-de-ação)
+* [Plano de Ação](#plano-de-ação-do-backlog)
 * [Cronograma de Entregas](#cronograma-de-entregas)
 
 
@@ -36,7 +36,7 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 * Transforma dados em insights com análises incorporáveis.
 * Aprimora a análise dos negócios e tem influência nas decisões corporativas, permitindo analisar, visualizar e planejar.
 
-## Product Backlog (*User story*)
+## *User story*
 
 
 | Quem | O que? | Para |
@@ -48,27 +48,27 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 |    Analista de Dados Espaciais   |Gostaria de uma ferramenta que me forneça condições de aplicar regras de transformação nos dados  | Para desenvolver novos produtos de acordo com a solicitação dos setores.| 
 |    Analista de Dados Espaciais   |Gostaria de uma ferramenta intuitiva, de fácil usabilidade,  com manuais de instruções| Para melhorar a experiência do usuário com a ferramenta|
 
-## *Story Cards*
+## Backlog Total em *Story Cards*
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/WhatsApp%20Image%202020-09-20%20at%2015.15.42.jpeg?raw=true" width="1000" height="500"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/backlog%20geofpi.png?raw=true" width="1000" height="500"/>
 
 
-## Plano de Ação
+## Plano de Ação do Backlog
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Linha%20do%20tempo%20.png?raw=true" width="900" height="650"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Linha%20do%20tempo%20NOVA.png?raw=true" width="900" height="650"/>
 
 ## Tecnologias
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Tecnologias.png?raw=true" width="900" height="550"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Tecnologias%20-%20NOVO.png?raw=true" width="900" height="550"/>
 
 ## Cronograma de Entregas
 
 | Data | Links |
 | ------ | ------ |
-|    20/09/2020    |[Sprint 1](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint1)|
-|    04/10/2020    |[Sprint 2](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint2) |
-|    18/10/2020    |[Sprint 3](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint3) |
-|    01/11/2020    |[Sprint 4](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint4) |                    
-|    15/11/2020    |[Sprint 5](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint5) |
-|    29/11/2020    |[Sprint 6](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint6) |
+|    20/09/2020    |[Sprint 0](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint1)|
+|    18/10/2020    |[Sprint 1](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint2) |
+|    08/11/2020    |[Sprint 2](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint3) |
+|    29/11/2020    |[Sprint 3](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint4) |                    
+|    06/12/2020    |[Sprint 4](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint5) |
+|    
 
