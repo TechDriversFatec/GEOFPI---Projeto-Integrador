@@ -65,10 +65,10 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 
 | Data | Links |
 | ------ | ------ |
-|    20/09/2020    |[Sprint 0](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint1)|
-|    18/10/2020    |[Sprint 1](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint2) |
-|    08/11/2020    |[Sprint 2](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint3) |
-|    29/11/2020    |[Sprint 3](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint4) |                    
-|    06/12/2020    |[Sprint 4](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint5) |
+|    20/09/2020    |[Sprint 1](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint1)|
+|    18/10/2020    |[Sprint 2](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint2) |
+|    08/11/2020    |[Sprint 3](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint3) |
+|    29/11/2020    |[Sprint 4](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint4) |                    
+|    06/12/2020    |[Entrega final](https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/tree/sprint5) |
 |    
 
