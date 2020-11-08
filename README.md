@@ -50,7 +50,7 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 
 ## Backlog Total em *Story Cards*
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/backlog%20geofpi.png?raw=true" width="1000" height="500"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Backlog.png?raw=true" width="1000" height="500"/>
 
 
 ## Plano de Ação do Backlog
@@ -59,7 +59,7 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 
 ## Tecnologias
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Tecnologias%20-%20NOVO.png?raw=true" width="900" height="550"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Tecnologia%20Atualiza%C3%A7%C3%B5es.png?raw=true" width="900" height="550"/>
 
 ## Cronograma de Entregas
 
