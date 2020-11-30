@@ -51,7 +51,7 @@ Essa ferramenta será configurada para entender os arquivos de formato shapefile
 
 ## Backlog Total em *Story Cards*
 
-<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Backlog.png?raw=true" width="1000" height="500"/>
+<img src="https://github.com/marciosousa4/GEOFPI---Projeto-Integrador/blob/master/Loading%20images/Backlog.png" width="1000" height="500"/>
 
 
 ## Plano de Ação do Backlog
